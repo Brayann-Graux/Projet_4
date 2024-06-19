@@ -5,4 +5,4 @@ RAPPORT D'INTERVENTION:
 
 étape 3 : 
 
-étape 4 : optimisation SEO, rajout de la lang "fr" sur le html, j'ai rajouter le titre du site ainsi qu'une meta description, j'ai aussi rajouté les alt a la suite de chaque image egalement se qui nous emmene a un SEO a 100%
+étape 4 : optimisation SEO, rajout de la lang "fr" sur le html, j'ai rajouter le titre du site ainsi qu'une meta description, j'ai aussi rajouté les alt a la suite de chaque image egalement se qui nous emmene a un SEO a 100% et accessibilité a 100% en metant les bonne valeur H pour les texte, passer la coulleur du texte des filtre en noir au lieu du blanc pour le contraste
