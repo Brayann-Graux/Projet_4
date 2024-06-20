@@ -1,7 +1,7 @@
 RAPPORT D'INTERVENTION:
 étape 1 : rajout de [index-1] et [index+1] pour avoir le defillement de la maudal fonctionnel, et modification du css en, rajoutant avant le .nav-pills un .active-tag et en raoutant un !imporant pour la couleur, la couleur d'arriere plan et le border radius pour que l'affichage passe en prioriter et affiche la coulleur sur le filttre selectionné.
 
-étape 2 : optimisation :-compression des image avec https://compressor.io/
+étape 2 : optimisation :-compression des image avec https://compressor.io/ et conversion en webp via https://convertio.co/fr/jpg-webp/
 
 étape 3 : 
 
