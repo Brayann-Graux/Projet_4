@@ -154,7 +154,7 @@
         }
       });
       next = imagesCollection[index - 1] ||
-        // index +- pour passer a l'image d'avant
+        // index -1 pour passer a l'image d'avant
         imagesCollection[imagesCollection.length - 1];
       $(".lightboxImage").attr("src", $(next).attr("src"));
     },
